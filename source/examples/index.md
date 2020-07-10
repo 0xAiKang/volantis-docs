@@ -99,8 +99,8 @@ links:
       avatar: https://cdn.jsdelivr.net/gh/qinxs/cdn-assets/img/avatar.png
       tags: [技术总结, 各种折腾]
     - name: Boo
-      url: https://www.aikang.me
-      avatar: https://i.loli.net/2020/07/05/GsQ2dLqZguO9JB7.jpg
+      url: https://aikang.me
+      avatar: https://cdn.jsdelivr.net/gh/0xAiKang/CDN/blog/images/avatar.jpg
       tags: [伪全栈]
     - name: 风也雨忆笙
       url: https://blog.kaygb.com/
